@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizUI</string>
+    <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="helpText"><u>help?</u></string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#120B19</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorBackground">#120B19</color>
+    <color name="colorBackgroundAlpha">#1B1027</color>
+
+    <color name="colorPBGradPrimary">#8500FB</color>
+    <color name="colorPBGradSecondary">#FF1744</color>
+
+    <color name="colorPBBorder">#382E43</color>
+    <color name="colorPBBackground">#1D1229</color>
+
+    <color name="colorWhite">#fff</color>
+    <color name="colorGray">#717171</color>
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="colorNextButton">#FF3159</color>
+    <color name="colorTextViewBG">#2A193C</color>
+
+    <color name="input_layout_edittext_UFhint">#9C9C9C</color>
+    <color name="mtrl_textinput_default_box_stroke_color">@color/colorNextButton</color>
+</resources>
